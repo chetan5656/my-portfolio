@@ -13,22 +13,22 @@ const Hero = () => {
     {
       title: "Instagram",
       tag: <BiLogoInstagramAlt size={20} />,
-      url: "https://www.instagram.com/sohanreddyy/",
+      url: "https://www.instagram.com/chetan_56_____/",
     },
     {
       title: "X/Twitter",
       tag: <FaXTwitter size={16} />,
-      url: "https://x.com/sohanreddyy?s=21",
+      url: "https://x.com/",
     },
     {
       title: "LinkedIn",
       tag: <FaLinkedin size={20} />,
-      url: "https://www.linkedin.com/in/sohanreddyk/",
+      url: "https://www.linkedin.com/in/chetan-kumar-686a8535b/",
     },
     {
       title: "Leetcode",
       tag: <SiLeetcode size={20} />,
-      url: "https://leetcode.com/u/sohanreddyy/",
+      url: "https://leetcode.com/",
     },
   ];
 
@@ -36,7 +36,7 @@ const Hero = () => {
     <div className="w-full px-4 flex flex-col md:flex-row items-center md:items-start justify-center gap-4 max-w-screen-md mx-auto  ">
       <img
         src="/profile.jpg"
-        alt="Sohan Reddy"
+        alt="Chetan Kumar"
         className="rounded-full w-38 h-38 object-cover border p-1"
       />
 
